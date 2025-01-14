@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+env/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Utils directory
+utils/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Other common Python ignores
+*.log
+.DS_Store
