@@ -15,6 +15,8 @@ Our platform tackles these challenges by providing multiple generation methods, 
 ## 🌟 Project Overview
 This platform offers four distinct synthetic data generation methods, each carefully designed to produce high-quality, realistic data:
 
+![demo image](<Screenshot 2025-01-16 132724.png>)
+
 ### Customer Profile Generation (Rule-Based)
 **Why?** For testing CRM systems, marketing analyses, and user databases
 
@@ -79,6 +81,13 @@ This platform offers four distinct synthetic data generation methods, each caref
 - Pandas & NumPy for data manipulation
 - CTGAN for deep learning-based generation
 - Mesa for agent-based simulation
+
+### workflow
+![workflow](<Untitled diagram-2025-01-15-193749.png>)
+
+### detail info in medium page
+
+[medium_page](https://medium.com/@ankushreddy281/building-a-synthetic-data-generator-a-multi-method-approach-with-aws-deployment-9d265c54ce94)
 
 ## 🔧 Setup & Installation
 
